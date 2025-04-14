@@ -31,6 +31,6 @@ int main()
 
     for (int i= 0;i < 5; i++)
     {
-        cout << grade[i];
+        cout << "Grade ke-" << i + 1 << " = " << grade[i] << endl;
     }
 }
