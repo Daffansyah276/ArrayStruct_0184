@@ -54,7 +54,7 @@ int main()
     cout << "Nama Hero = " << arhero[i].Nama << endl;
     cout << "Role Hero = " << arhero[i].Role << endl;
     cout << "Tipe Hero = " << arhero[i].Tipe << endl;
-    
+
     }
     
 }
